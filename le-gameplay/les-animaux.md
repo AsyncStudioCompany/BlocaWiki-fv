@@ -75,12 +75,79 @@ Vous trouverez dans le tableau ci-dessous la liste des animaux présents sur le 
 
 | Nom        | Biome  | Loots                     |                                                                         |
 | ---------- | ------ | ------------------------- | ----------------------------------------------------------------------- |
-| Méduse     | Marais | Cœur de méduse / Familier | <img src="../.gitbook/assets/Meduseee.gif" alt="" data-size="original"> |
-| Rhinocéros | Savane | Corne / Familier          | <img src="../.gitbook/assets/Rhino.gif" alt="" data-size="original">    |
-| Éléphant   | Savane | Défense / Familier        | <img src="../.gitbook/assets/Elephant.gif" alt="" data-size="original"> |
+| Méduse     | Océan  | Cœur de méduse / Familier | <img src="../.gitbook/assets/Meduseee.gif" alt="" data-size="original"> |
+| Rhinocéros | Désert | Corne / Familier          | <img src="../.gitbook/assets/Rhino.gif" alt="" data-size="original">    |
+| Éléphant   | Désert | Défense / Familier        | <img src="../.gitbook/assets/Elephant.gif" alt="" data-size="original"> |
 
 </details>
 
 Pour chaque animal, vous avez une chance de drop un œuf de familier. Vous pourrez tenter de faire éclore cet œuf afin d'obtenir le familier de l'animal en question (qu'il s'agisse d'un familier normal ou d'un shiny)
 
+{% hint style="info" %}
 Pour mieux comprendre les familiers, vous pouvez trouver plus d'explications dans la catégorie [<mark style="color:yellow;">Les familiers</mark>](les-familiers.md)
+{% endhint %}
+
+## Apparition des Mobs sur votre Île
+
+Sur votre île, il est possible de faire apparaître différents mobs en respectant des conditions précises liées aux **biomes** et aux **types de blocs**.
+
+⚠️ **Important :**\
+Il est **obligatoire d’être dans le biome spécifié** pour chaque créature afin qu’elle puisse apparaître. Même si les blocs requis sont présents, aucun mob ne spawn en dehors de son biome.
+
+***
+
+### 🌿 Biome Plains
+
+Les créatures suivantes peuvent apparaître dans ce biome :
+
+* **Écureuil** : spawn uniquement sur des blocs d’herbe
+* **Capybara** : spawn uniquement sur des blocs d’herbe
+
+***
+
+### 🏜️ Biome Desert
+
+Les créatures adaptées aux environnements arides apparaissent ici :
+
+* **Bouquetin** : spawn sur sable, sable rouge ou grès
+* **Serpent** : spawn sur sable, sable rouge ou grès
+
+***
+
+### ❄️ Biome Taiga
+
+Ce biome froid permet l’apparition des mobs suivants :
+
+* **Bison** : spawn sur neige et blocs d’herbe enneigés
+* **Pingouin** : spawn sur neige et blocs d’herbe enneigés
+
+***
+
+### 🌾 Biome Savanna
+
+* **Zèbre** : spawn sur blocs d’herbe et de terre
+
+***
+
+### 🌴 Biome Jungle
+
+Les créatures exotiques apparaissent dans ce biome :
+
+* **Singe** : spawn sur herbe, podzol et terre racineuse
+* **Tigre** : spawn sur herbe et sable
+
+***
+
+### 🌊 Biomes Swamp & Mangrove Swamp
+
+Ces biomes permettent l’apparition de mobs semi-aquatiques :
+
+* **Alligator** : spawn sur blocs d’herbe **et dans l’eau**.
+* **Flamant rose** : spawn sur blocs d’herbe **et dans l’eau**.
+
+***
+
+### ✅ Résumé des Règles
+
+* Chaque mob a un **biome spécifique obligatoire**
+* Chaque mob a des **blocs de spawn précis**

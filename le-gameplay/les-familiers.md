@@ -35,13 +35,13 @@ Vous pouvez équiper **5 familiers en même temps**, ce qui vous permet de combi
 
 → Gratuit : 2 emplacements
 
-→ Grade VIP  : +1 emplacement
+→ Grade VIP : +1 emplacement
 
 → Grade MVP : +1 emplacement\
 \
 → Grade Légende : +1 emplacement
 
-Une fois votre familier sorti, en faisant <mark style="color:yellow;">`shift + clic droit`</mark> sur votre familier un menu s'ouvre ! Dans celui-ci vous avez plusieurs possibilités qui s'offrent à vous :&#x20;
+Une fois votre familier sorti, en faisant <mark style="color:yellow;">`shift + clic droit`</mark> sur votre familier un menu s'ouvre ! Dans celui-ci vous avez plusieurs possibilités qui s'offrent à vous :
 
 * Vous pouvez voir les statistiques de votre familier
 * Vous pouvez renommer votre familier (_uniquement disponible avec l'abonnement premium_)
@@ -49,23 +49,33 @@ Une fois votre familier sorti, en faisant <mark style="color:yellow;">`shift + c
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-#### Les fruits et les bonbons
+### Nourriture des pets
 
-Les familiers se nourrissent de fruits et de bonbons pour gagner de l'expérience (XP) et monter en niveau.
+Les familiers se nourrissent de fruits, de bonbons et de gourmandise pour gagner de l'expérience (XP) et monter en niveau.
+
+Les gourmandises sont des items craftable à l’atelier qui donnent souvent plus d’xp que les fruits seuls.
 
 Étapes pour nourrir votre familier :
 
-* Ouvrez l'interface avec la commande <kbd><mark style="color:yellow;">/pets<mark style="color:yellow;"></kbd>.
+* Ouvrez l'interface avec la commande <kbd><mark style="color:yellow;">/pets<mark style="color:yellow;"></kbd>
 * Placez le familier que vous souhaitez nourrir parmi vos familiers actifs.
 * Faites un clic droit sur lui pour qu'il soit invoqué.
 * Quittez l'interface : votre familier doit maintenant apparaître à vos côtés.
 * Vous pouvez alors le nourrir en faisant un clic droit sur lui avec vos fruits ou bonbons en main.
 
+| Nom des gourmandises | XP     | Comment les obtenir ? |
+| -------------------- | ------ | --------------------- |
+| Barre de chocolat    | 80 XP  | Via le /atelier       |
+| Bonbon au miel       | 75 XP  | Via le /atelier       |
+| Smoothie acidulé     | 75 XP  | Via le /atelier       |
+| Smoothie détoxifiant | 250 XP | Via le /atelier       |
+| Jus de légume        | 150 XP | Via le /atelier       |
+
 {% hint style="info" %}
 À noter que vous pouvez lui donner stack par stack en faisant Shift + clic sur votre familier avec les fruits ou les bonbons en main
 {% endhint %}
 
-<table data-full-width="false"><thead><tr><th width="179.816650390625">Nom des fruits</th><th width="99.949951171875">XP</th><th width="443.2501220703125">Comment les obtenir ?</th></tr></thead><tbody><tr><td>Banane</td><td>1 XP</td><td>S'obtient en cassant des feuilles des arbres suivants : Sapin, Acajou, Chêne noir et Chêne pâle.</td></tr><tr><td>Pêche</td><td>2 XP</td><td>S'obtient en cassant des feuilles d'Acacia et de Cerisier.</td></tr><tr><td>Fraise</td><td>3 XP</td><td>S'obtient en cassant des feuilles de Chêne, de Bouleau et de Palétuvier.</td></tr><tr><td>Figuier de Barbarie</td><td>1 XP</td><td>S'obtient en cassant des cactus.</td></tr><tr><td>Gland</td><td>1 XP</td><td>S'obtient en tuant des écureuils.</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th width="179.816650390625">Nom des fruits</th><th width="99.949951171875">XP</th><th width="443.2501220703125">Comment les obtenir ?</th></tr></thead><tbody><tr><td>Banane</td><td>1 XP</td><td>S'obtient en cassant des feuilles des arbres suivants : Sapin, Acajou, Chêne noir et Chêne pâle.</td></tr><tr><td>Pêche</td><td>2 XP</td><td>S'obtient en cassant des feuilles d'Acacia et de Cerisier.</td></tr><tr><td>Fraise</td><td>3 XP</td><td>S'obtient en cassant des feuilles de Chêne, de Bouleau et de Palétuvier.</td></tr><tr><td>Figuier de Barbarie</td><td>1 XP</td><td>S'obtient en cassant des cactus.</td></tr></tbody></table>
 
 <table data-full-width="false"><thead><tr><th width="180.2332763671875">Nom des bonbons</th><th width="100.0499267578125">XP</th><th width="443.7335205078125">Comment les obtenir ?</th></tr></thead><tbody><tr><td>Petit bonbon</td><td>200 XP</td><td>Caisses et récompenses autres</td></tr><tr><td>Bonbon</td><td>500 XP</td><td>Caisses et récompenses autres</td></tr><tr><td>Gros bonbon</td><td>1000 XP</td><td>Caisses et récompenses autres</td></tr><tr><td>Immense bonbon</td><td>1500 XP</td><td>Caisses et récompenses autres</td></tr></tbody></table>
 
@@ -73,12 +83,13 @@ Les familiers se nourrissent de fruits et de bonbons pour gagner de l'expérienc
 
 Les familiers peuvent atteindre le niveau 20 en version classique ou shiny, mais grâce à la fusion, vous pouvez les faire monter jusqu'au niveau 25.
 
-Pour procéder à une fusion, il vous suffit de réunir 3 familiers identiques de niveau 20. Une fois la fusion effectuée, le familier débloqué pourra atteindre le niveau 25 et obtenir sa dernière amélioration.
+Pour procéder à une fusion, il vous suffit de réunir 4 familiers identiques de niveau 20. Une fois la fusion effectuée, le familier débloqué pourra atteindre le niveau 25 et obtenir sa dernière amélioration.
 
 Si un familier shiny est inclus dans la fusion, le familier obtenu bénéficiera d'une probabilité accrue de devenir shiny.
 
-* <mark style="color:yellow;">1 familier shiny</mark> - 50% de chance
-* <mark style="color:yellow;">2 - 3 familiers shiny</mark> - 100% de chance
+* <mark style="color:yellow;">1 familier shiny</mark> - 33% de chance
+* <mark style="color:yellow;">2 familiers shiny</mark> - 66% de chance
+* <mark style="color:yellow;">3 familiers shiny</mark> - 100% de chance
 
 Étape pour fusionner:
 
@@ -294,7 +305,7 @@ Pets événements et autres
 
 <table><thead><tr><th width="129.7333984375">Niveau</th><th width="270.183349609375">Classique</th><th width="260.16656494140625">Shiny</th></tr></thead><tbody><tr><td>Niveau 1</td><td>+50 de chance</td><td>+75 de chance</td></tr><tr><td>Niveau 5</td><td>15 000 $ /h</td><td>22 500 $ /h</td></tr><tr><td>Niveau 10</td><td>3.5% supplémentaire sur l'xp du métier chasseur</td><td>5% supplémentaire sur l'xp du métier chasseur</td></tr><tr><td>Niveau 15</td><td>Vous pouvez monter sur Imperius</td><td>Vous pouvez monter sur Imperius</td></tr><tr><td>Niveau 20</td><td>2,5% supplémentaire sur l'xp de tous les métiers</td><td>3,5% supplémentaire sur l'xp de tous les métiers</td></tr></tbody></table>
 
-<div><figure><img src="../.gitbook/assets/imperius_gif.gif" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/imperius_shiny (1).gif" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/imperius_gif.gif" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/imperius_shiny.gif" alt=""><figcaption></figcaption></figure></div>
 
 </details>
 

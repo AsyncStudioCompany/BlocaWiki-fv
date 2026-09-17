@@ -28,6 +28,11 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 ### <mark style="color:yellow;">Article C : Les alliances</mark>
 
 * Toute forme d'alliance entre box est interdite si elle a pour but de vous faire progresser dans le classement de boxe, les jobs, les maitrises, le niveau de personnage (cela comprend mais ne se limite pas aux items de niveau de boxe du mois, l'argent, ainsi que tout autre item permettant de propulser une box dans le classement). Tout abus concernant ces alliances sera sanctionné que l'exemple soit noté ici ou non.
+* Toute action d'alliances entrainant un impact dans les classements sont interdits, cela sera considéré comme de l'alliance de box.
+* Plantage de pousses
+* AFK mobs
+* Remplissage de distributeurs
+* Cette liste n'est pas exhaustive
 
 ## <mark style="color:yellow;">Partie II : Le Chat</mark>
 
@@ -51,7 +56,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
   * Spam (envoi répété de la même phrase, du même mot), Flood supérieur à 5 caractères (succession de la même lettre, du même caractère ou même émojis. Exemple : Merciiiiiiiiiiiiiiiiiiiiiiiiii), Majuscules
   * La mendicité (demander des items, prêts d'items, d'argent, etc.).
   * Les menaces, le harcèlement, l’humour noir ainsi que la divulgation d'informations privées, demande de réseau social, ….
-  * L’envoi de liens dans le chat est strictement et inconditionnellement interdit sauf lien de ce wiki.
+  * L’envoi de liens dans le chat est strictement et inconditionnellement interdit.
 * **Où qu'ils soient, les propos sont sanctionnables :**
   * Chat public.
   * Chat de box.
@@ -67,7 +72,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 
 * Il est interdit de faire une publicité allant à l'encontre de Blocaria. Ainsi, il est interdit de promouvoir un serveur concurrent ou de citer un serveur autre que ceux de Rivrs.
 * La publicité de son propre contenu (vidéos Youtube, chaîne Twitch, compte TikTok…) est interdite sur le serveur, hormis si vous disposez du grade Créateur ou Partenaire.
-* Toutes les **publicités devront passer par le /pub**, sans quoi des sanctions pourront être appliquées. Chaque pub quelle qu'elle soit se doit d'être espacée de 30 minutes (**pwarp, vente/achat d'item, annonce d'événement, promotion d'un item, location d'afk, recherche d'équipe, …**).
+* Toutes les **publicités devront passer par le /pub**, sans quoi des sanctions pourront être appliquées. Chaque pub quelle qu'elle soit se doit d'être espacée de 15 minutes (**pwarp, vente/achat d'item, annonce d'événement, promotion d'un item, location d'afk, recherche d'équipe, …**).
 
 ## <mark style="color:yellow;">Partie III : Le Gameplay</mark>
 
@@ -90,12 +95,13 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 * Les machines à pêche automatiques sont interdites.
 * Le farming à l’aide de véhicules (bateaux, wagons, etc.) est interdit.
 * Les fermes utilisant des withers ou des tnt sont interdites.
-* Le posé/casser abusif de blocs farmables (bois, pierres, minerais…) pour les missions coopératives, jobs ou les rituels est interdit.
+* Le posé/casser de blocs farmables (bois, pierres, minerais…) pour les missions coopératives, jobs ou les rituels est interdit. La seule exception autorisée concerne les événements de réactions dans le chat (_chat reactions_).
 * Toute tentative de contourner la progression prévue par le serveur (machines automatiques, exploitation de bug, etc.) est interdite.
 * Le chunkloading (chargement de chunks via des techniques détournées) est interdit.
 * Toute technique empêchant de faire disparaître (despawn) des mobs (Rename, bateau, etc.) est interdite.
 * Il est interdit d’utiliser un clic supérieur à 10 CPS, quelle que soit la situation.
 * En cas de doute sur une farm, un ticket doit être ouvert. Le staff peut supprimer toute farm jugée non conforme sans remboursement.
+* Il est strictement interdit d’exploiter les mobiliers customs à des fins de farm.
 
 #### <mark style="color:yellow;">B.2 -</mark> <mark style="color:yellow;">**Constructions, interactions**</mark>
 
@@ -109,6 +115,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 * La vente d’items, de services ou de contenus en jeu contre de l’argent réel ou des gemmes est interdite.
 * Toutes les formes de don que ce soit du stuff, de l'argent ou autre sont interdites dans toutes les situations.
 * Le prêt d’items entre joueurs est strictement interdit, tous les échanges doivent être définitifs.
+* Toute location est strictement interdite, à l’exception des spawners.
 
 {% hint style="info" %}
 Informations supplémentaires Article K
@@ -119,6 +126,7 @@ Informations supplémentaires Article K
 * La redstone est à utiliser dans la limite du raisonnable et de l'utile.
 * Les usines en dessous de "4-ticks", machines volantes ainsi que l’ensemble des machines de duplication sont interdites.
 * Les machines créant des lags, volontairement ou non, sont interdites et seront cut.
+* Toute machine permettant la plantation automatique de pousses d’arbres, champignons, azalées etc est strictement interdite.
 
 {% hint style="warning" %}
 Si votre système ne respecte pas les règles du serveur, celui-ci sera supprimé sans aucun remboursement possible.
@@ -213,7 +221,9 @@ Les remboursements de vol ne sont pas automatiques, il est de la responsabilité
 
 * Une box ne peut pas contenir plus de 10 membres simultanément.
 * Il est interdit de kick un membre pour en ajouter un autre temporairement dans le but d’optimiser le farm.
-  * Toute tentative de contournement de cette règle sera sanctionnée.
+* Règle du classement mensuel : Si une île participe au classement des boxs, tout membre exclu (_kick/ban_) en cours de mois ne pourra pas la réintégrer avant le 1er jour du deuxième mois suivant. \
+  &#xNAN;_<mark style="color:$success;">Exemple : Si un joueur est exclu le 15 mai, il ne pourra pas rejoindre à nouveau l'île avant le 1er juillet.</mark>_
+* Toute tentative de contournement de cette règle sera sanctionnée.
 
 ### <mark style="color:yellow;">Article M : Gestion des départs de box</mark>
 
